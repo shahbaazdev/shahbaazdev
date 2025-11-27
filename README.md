@@ -121,7 +121,7 @@ IILM Academy for Higher Learning, Greater Noida
 
 ## 🔗 Connect With Me
 
-- **Portfolio:** https://portfolio-55b59.web.app  
+- **Portfolio:** https://shahbaaz-ali.netlify.app/  
 - **LinkedIn:** https://in.linkedin.com/in/shahbaaz-ali-77166417a  
 - **Email:** dev.shahbaaz.28@gamil.com  
 
