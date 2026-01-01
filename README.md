@@ -1,134 +1,143 @@
 # 👋 Hi, I'm Shahbaaz Ali
 
-**Senior Software Engineer | React & React Native Specialist**
+### 🚀 Senior Software Engineer | React • React Native • Next.js
 
-I’m a Frontend & Mobile Developer with **5+ years of experience** building scalable, high-performance applications across fintech, healthtech, identity verification, and SaaS platforms.  
-I love crafting intuitive user experiences, optimizing performance, and developing reliable digital products that solve real-world problems.
-
----
-
-## 🚀 About Me
-
-- 🧩 Strong in **React, Next.js, React Native**, and modern frontend ecosystems  
-- 📱 Built & scaled multiple **iOS/Android apps** and enterprise-grade web apps  
-- ⚡ Experienced with **Node.js**, REST APIs, real-time systems, and CI/CD  
-- 👨‍🏫 Led teams, mentored developers, and improved engineering velocity  
-- ☁️ Skilled in **AWS, Azure, GitHub Actions**, and cloud-native workflows  
-- 🔍 Passionate about clean code, system design, and performance optimization  
+Frontend & Mobile Engineer with **5+ years of experience** building **scalable, high-performance applications** across **fintech, healthtech, identity verification, and SaaS** platforms.  
+I specialize in crafting **clean UIs**, **optimizing performance**, and delivering **production-ready digital products**.
 
 ---
 
-## 🏢 Professional Experience
+## 🧠 About Me
 
-### **Senior Software Engineer – Nixet (Nov 2025 – Present)**
-- Directed development of an API Builder platform, reducing integration time by **30%**
-- Saved **$30K annually** by optimizing internal tooling
-- Improved backend performance by **30%** across 20+ REST APIs
-- Mentored 5 junior developers, boosting team velocity and reducing defects by **15%**
+- 💻 Expert in **React, Next.js, React Native & TypeScript**
+- 📱 Built and scaled **cross-platform iOS & Android apps**
+- ⚡ Strong backend exposure with **Node.js, REST APIs & real-time systems**
+- 👨‍🏫 Led teams, mentored engineers & improved delivery velocity
+- ☁️ Experience with **AWS, Azure & CI/CD pipelines**
+- 🔍 Passionate about **performance, clean architecture & DX**
 
-### **Senior Software Engineer – Compliance Innovation (Mar 2024 – Nov 2025)**
-- Led end-to-end development of **Simplici.io**, improving onboarding by **35%**
-- Built biometric verification (Face, Palm, KYC, AML) reducing manual review by **40%**
-- Architected **Liquidity.io**, supporting **10,000+ monthly trades** under **200ms**
-- Implemented CI/CD (GitHub Actions), reducing deployments from 45 mins to **<5 mins**
-- Achieved **95%+ client satisfaction** across project cycles
+---
 
-### **Software Developer – Algoscale (Apr 2023 – Mar 2024)**
-- Developed **TrakGene**, boosting clinician workflow efficiency by **30%**
-- Enhanced pedigree drawing tool, reducing rendering issues by **50%**
-- Automated deployments, cutting deployment errors by **95%**
+## 🏢 Experience
 
-### **Web Developer – Ellocent Labs (Jun 2021 – Apr 2023)**
-- Delivered key features for **ZAPP**, **VDOC**, and **Tolobi**
-- Built real-time ride tracking and dashboards, boosting ZAPP retention by **28%**
-- Built scalable UI components with **99.9% uptime** in production environments
+### **Senior Software Engineer — Nixet**  
+📍 *Nov 2025 – Present*
+
+- Led development of an **API Builder Platform**, cutting integration time by **30%**
+- Optimized internal tools, saving **$30K annually**
+- Improved performance across **20+ REST APIs by 30%**
+- Mentored **5 junior engineers**, improving delivery speed and reducing bugs by **15%**
+
+---
+
+### **Senior Software Engineer — Compliance Innovation**  
+📍 *Mar 2024 – Nov 2025*
+
+- Led **Simplici.io**, improving onboarding success by **35%**
+- Built **biometric verification systems** (Face, Palm, KYC, AML)
+- Architected **Liquidity.io**, handling **10,000+ monthly trades** with **<200ms latency**
+- Implemented **CI/CD with GitHub Actions**, reducing deploy time from 45 mins → **<5 mins**
+- Maintained **95%+ client satisfaction**
+
+---
+
+### **Software Developer — Algoscale**  
+📍 *Apr 2023 – Mar 2024*
+
+- Developed **TrakGene**, improving clinician workflows by **30%**
+- Enhanced pedigree rendering engine, reducing UI issues by **50%**
+- Automated deployments, reducing production errors by **95%**
+
+---
+
+### **Web Developer — Ellocent Labs**  
+📍 *Jun 2021 – Apr 2023*
+
+- Built scalable features for **ZAPP, VDOC & Tolobi**
+- Implemented **real-time ride tracking**, boosting retention by **28%**
+- Delivered reusable UI components with **99.9% uptime**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Languages**
-- JavaScript, TypeScript
+**Languages**  
+`JavaScript` · `TypeScript`
 
-### **Frontend**
-- ReactJS, NextJS, React Native  
-- HTML, CSS, Sass, Tailwind CSS  
-- Styled Components, Ant Design
+**Frontend**  
+`React` · `Next.js` · `React Native` · `Tailwind CSS` · `Ant Design`
 
-### **Backend**
-- Node.js, Express.js, Socket.io, WebSocket  
-- Mongoose
+**Backend**  
+`Node.js` · `Express` · `Socket.io` · `WebSockets`
 
-### **Databases**
-- MongoDB, Firebase
+**Databases**  
+`MongoDB` · `Firebase`
 
-### **DevOps & Cloud**
-- AWS, Azure  
-- Git, GitHub, GitHub Actions, CI/CD
+**DevOps & Cloud**  
+`AWS` · `Azure` · `GitHub Actions` · `CI/CD`
 
-### **Notifications & Messaging**
-- OneSignal, FCM, APN, Twilio, SendGrid
+**Payments**  
+`Stripe` · `Razorpay` · `Google Pay` · `Apple Pay`
 
-### **Analytics**
-- Google Analytics, Segment, Firebase Analytics, AppFlyer, UserPilot
-
-### **Payments**
-- Stripe, Razorpay, Google Pay, Apple Pay
+**Notifications & Analytics**  
+`FCM` · `OneSignal` · `Twilio` · `Segment` · `Firebase Analytics`
 
 ---
 
-## 📌 Highlighted Projects
+## 📌 Featured Projects
 
-### **Liquidity.io – Trading Platform**
-- Blockchain-enabled private equity & credit asset trading  
-- Smart contract integration, digital identity, role-based access  
-- Built secure Android/iOS apps for institutional trading  
+### 🔹 **Liquidity.io — Trading Platform**
+- Blockchain-based private equity & credit asset trading
+- Smart contracts, digital identity & RBAC
+- Secure Android & iOS apps for institutional clients
 
-### **Simplici.io – Identity Verification System**
-- Biometric verification: Face, Palm, KYC, KYB, AML  
-- Drag & drop onboarding flow builder  
-- Liveness detection + automated verification workflows  
+### 🔹 **Simplici.io — Identity Verification**
+- Face & Palm biometrics, KYC, KYB & AML
+- Drag-and-drop onboarding flow builder
+- Liveness detection & automated verification
 
-### **TrakGene – Clinical Genetics**
-- Family history questionnaire builder  
-- Cancer risk calculation modules  
-- Powerful pedigree drawing tool for clinicians  
+### 🔹 **TrakGene — Clinical Genetics**
+- Genetic risk assessment tools
+- Family history & pedigree visualization
+- Built for hospitals & clinicians
 
-### **ZAPP – Taxi Booking App**
-- Real-time tracking, ride booking, driver dashboards  
-- Wallet, invoices, earnings management  
+### 🔹 **ZAPP — Taxi Booking App**
+- Real-time tracking & driver dashboards
+- Wallet, invoices & earnings management
 
 ---
 
 ## 🎓 Education
 
-**B.Tech, Computer Science Engineering (83.01%)**  
-IILM Academy for Higher Learning, Greater Noida  
+**B.Tech in Computer Science Engineering**  
+🎓 IILM Academy for Higher Learning, Greater Noida  
+📊 **83.01%**
 
 ---
 
-## 🏅 Certifications
-- **Microsoft Certified: Azure Fundamentals** (2024)  
-- **Pro5.ai Frontend Development Certificate** (2024)
+## 🏆 Certifications & Awards
 
----
-
-## 🏆 Awards
-- **Client Delight Specialist Award – 2024**  
-- **Versatile Developer Award – 2025**
+- 🏅 **Microsoft Certified: Azure Fundamentals (2024)**
+- 🏅 **Pro5.ai Frontend Certification (2024)**
+- 🏆 **Client Delight Specialist Award (2024)**
+- 🏆 **Versatile Developer Award (2025)**
 
 ---
 
 ## 🔗 Connect With Me
 
-- **Portfolio:** https://shahbaaz-ali.netlify.app/  
-- **LinkedIn:** https://in.linkedin.com/in/shahbaaz-ali-77166417a  
-- **Email:** dev.shahbaaz.28@gamil.com  
+- 🌐 **Portfolio:** [shahbaaz-ali.netlify.app](https://shahbaaz-ali.netlify.app/)
+- 💼 **LinkedIn:** [linkedin.com/in/shahbaaz-ali](https://in.linkedin.com/in/shahbaaz-ali-77166417a)
+- 📧 **Email:** dev.shahbaaz.28@gmail.com
 
 ---
 
-## 🤝 Open to Collaboration
+## 🤝 Open to Opportunities
 
-I enjoy working on challenging products—whether it's frontend performance, mobile apps, system scaling, or developer tooling.  
-Feel free to reach out for collaborations or interesting projects!
+I’m open to:
+- 🚀 Frontend & Mobile Architecture
+- 📱 React Native / Performance Optimization
+- 🧠 SaaS & Developer Tooling
+- 👨‍🏫 Mentorship & Technical Leadership
 
+Feel free to reach out — happy to collaborate!
