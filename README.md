@@ -5,9 +5,10 @@
 </p>
 
 <p align="center">
-  Frontend & Mobile Engineer with <b>5+ years</b> building scalable, high-performance apps across
-  <b>fintech, healthtech, identity verification & SaaS</b>.<br/>
-  I care about clean UIs, fast experiences, and shipping production-ready products.
+  I build scalable web & mobile apps with <b>React, Next.js and React Native</b> —
+  with <b>AI woven into my everyday workflow</b>.<br/>
+  <b>5+ years</b> across fintech, healthtech, identity verification & SaaS, shipping
+  clean UIs and fast, production-ready products.
 </p>
 
 <p align="center">
@@ -130,8 +131,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahbaazdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaazdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shahbaazdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
